@@ -1,8 +1,8 @@
 {
   "name": "@eliteswap/v2-core",
-  "description": "🎛 Core contracts for the EliteswapV2 protocol",
-  "version": "1.0.4",
-  "homepage": "https://eliteswap.org",
+  "description": "🎛 Core contracts for Elite Swap V2 protocol",
+  "version": "1.0.5",
+  "homepage": "https://eliteswap.io",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/EthereumEliteswap/eliteswap-v2-core.git"
